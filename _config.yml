@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Peter Kim
+description:      Aspiring Hacker/Entrepreneur | UC Berkeley | Polyphasic Sleeper | I like to build thigns.
 logo:             site-logo.png
 disqus_shortname:
 search:           true
@@ -9,16 +9,16 @@ search:           true
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Peter Kim
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          peterkim45366@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
-  facebook:
-  github:
-  stackexchange:
-  linkedin:
-  instagram:
+  twitter: www.twitter.com/pkayfire
+  facebook: www.facebook.com/pkayfire
+  github: www.github.com/pkayfire
+  stackexchange: 
+  linkedin: https://www.linkedin.com/pub/peter-kim/33/166/b27
+  instagram: 
   flickr:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -37,10 +37,6 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
     external: true
 
 future:      true
