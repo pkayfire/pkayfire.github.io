@@ -1,5 +1,5 @@
 title:            Peter Kim
-description:      Aspiring Hacker/Entrepreneur | UC Berkeley | Polyphasic Sleeper | I like to build thigns.
+description:      Aspiring Hacker/Entrepreneur | UC Berkeley | Polyphasic Sleeper | I like to build things.
 logo:             site-logo.png
 disqus_shortname:
 search:           true
@@ -13,11 +13,11 @@ owner:
   avatar:         bio-photo.jpg
   email:          peterkim45366@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter: www.twitter.com/pkayfire
-  facebook: www.facebook.com/pkayfire
-  github: www.github.com/pkayfire
+  twitter: pkayfire
+  facebook: pkayfire
+  github: pkayfire
   stackexchange: 
-  linkedin: https://www.linkedin.com/pub/peter-kim/33/166/b27
+  linkedin: peterkim453666
   instagram: 
   flickr:
   tumblr:
