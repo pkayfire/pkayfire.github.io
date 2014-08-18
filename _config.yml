@@ -5,8 +5,7 @@ disqus_shortname: peterkim45366
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # You don't need to specify the protocol if you want it available on http and https. Example: //localhost:4000
-#url:              http://www.peterkim.co
-url:
+url:              http://www.peterkim.co
 
 # Owner/author information
 owner:
