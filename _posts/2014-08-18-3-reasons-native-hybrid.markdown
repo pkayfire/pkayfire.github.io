@@ -2,8 +2,8 @@
 layout: post
 title:  "3 Reasons to Switch From Native to Hybrid for Mobile App Development"
 date:   2014-08-18 11:00:00
-categories: dev mobile
-tags: [native, hybrid, iOS, Android, Cordova, AngularJS, Ionic]
+categories:
+tags: [native, hybrid, Cordova, AngularJS, Ionic]
 comments: true
 share: true
 hide_masthead: true
