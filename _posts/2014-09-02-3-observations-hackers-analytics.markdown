@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3 Observations on Why Hackers Should Embrace Analytics"
-date:   2014-08-18 11:00:00
+date:   2014-09-02 10:37:00
 categories:
 tags: [hacking, analytics, shipping, product]
 comments: true
