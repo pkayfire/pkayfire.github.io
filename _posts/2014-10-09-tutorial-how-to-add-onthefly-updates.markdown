@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tutorial: How to Add On-The-Fly Updating to a Hybrid Mobile App Development"
+title:  "Tutorial: How to Add On-The-Fly Updating to a Hybrid Mobile App"
 date:   2014-10-09 11:00:00
 categories:
 tags: [native, hybrid, Cordova, AngularJS, Ionic, NodeJS, Heroku]
