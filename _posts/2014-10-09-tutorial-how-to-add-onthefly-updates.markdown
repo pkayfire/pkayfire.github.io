@@ -71,7 +71,7 @@ I've put below a shortened version of our config.xml:
   <preference name="DisallowOverscroll" value="true"/>
   <preference name="BackupWebStorage" value="none"/>
 </widget>
-</code><pre>
+</code></pre>
 
 Notice how ``` <content src="xxx"/> ``` has a remote url as a source rather than index.html, which points to a local file in your project. 
 
