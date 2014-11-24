@@ -55,7 +55,7 @@ We now need to configure config.xml in our Apache Cordova project in order to ma
 
 I've put below a shortened version of our config.xml:
 
-```
+<pre><code>
 <widget id="com.throwback.throwbackapp" version="1.1.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>throwback_mobile</name>
   <description>
@@ -71,7 +71,7 @@ I've put below a shortened version of our config.xml:
   <preference name="DisallowOverscroll" value="true"/>
   <preference name="BackupWebStorage" value="none"/>
 </widget>
-```
+</code><pre>
 
 Notice how ``` <content src="xxx"/> ``` has a remote url as a source rather than index.html, which points to a local file in your project. 
 
