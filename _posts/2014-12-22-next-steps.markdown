@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Next Steps: Building, Joining Stripe, Maintaining Velocity"
+title:  "Next Steps: Building Constantly, Joining Stripe, Maintaining Velocity"
 date:   2014-12-22 15:00:00
 categories:
 tags: [personal]
