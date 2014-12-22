@@ -1,13 +1,14 @@
 ---
 layout: page
-permalink: /about/
+permalink: /about
 title:
 tags: [Peter, Kim, pkayfire]
-modified: 2014-08-18
+modified: 2014-12-22
 ---
 
-* Currently *working* on [**Throwback**](http://www.throwbacknow.com/)
+* Currently *working* on lots of cool stuff :).
 
+* Previously *worked* on [Throwback](http://www.throwbacknow.com/)
 * Previously *worked* on [Fizzy!](http://www.tryfizzy.com/)
 * Previously *worked* at [Chat Sports](http://www.chatsports.com/) + [Amazon Web Services](http://www.aws.amazon.com/) + [RMS](http://www.rms.com)
 
