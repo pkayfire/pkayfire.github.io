@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /about
+permalink: /about/
 title:
 tags: [Peter, Kim, pkayfire]
 modified: 2014-12-22
 ---
 
-* Currently *working* on lots of cool stuff :).
+* Currently *working* on lots of cool stuff :)
 
 * Previously *worked* on [Throwback](http://www.throwbacknow.com/)
 * Previously *worked* on [Fizzy!](http://www.tryfizzy.com/)
