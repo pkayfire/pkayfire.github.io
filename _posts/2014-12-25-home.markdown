@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Home"
+date:   2014-12-25 18:30:00
+categories:
+tags: []
+comments: true
+share: true
+hide_masthead: true
+---
+
+I've watched the *Lord of the Rings* trilogy more times than I care to keep track. If there's one scene I'll always remember, it's when Frodo comes back to the Shire. It's a scene we've seen played out without end in literature and cinema: [ [^1] ]
+
+But through all the re-visiting, re-hashing, re-visioning, the core essence of the story remains. The hero returns after the war. The hero returns home. **Home**.
+
+What is **home** for *you*?
+
+-[Peter]
+
+[Peter]: http://www.twitter.com/pkayfire
+[^1]: Insert your own literature/cinema piece here
