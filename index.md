@@ -7,7 +7,7 @@ title: Peter Kim
 
 I'm currently exploring the web.
 
-Previously I was a cofounder at <a href="https://sbly.com">SBLY</a>, a holding company of digital brands and audiences that I helped bootstrap profitably to $90M in total revenue.
+Previously I was a cofounder of <a href="https://sbly.com">SBLY</a>, a holding company of digital brands and audiences that I helped bootstrap profitably to $90M in total revenue.
 
 <hr class="mb-4">
 
