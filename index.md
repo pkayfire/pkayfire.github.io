@@ -15,6 +15,7 @@ Previously I was a cofounder at <a href="https://sbly.com">SBLY</a>, a holding c
 
 <hr class="mb-4">
 
+<a href="mailto:p@peter-kim.com">Email</a>
 <a href="https://twitter.com/pkayfire">Twitter</a>
 <a href="https://www.linkedin.com/in/peter-sbly/">LinkedIn</a>
 <a href="https://github.com/pkayfire">Github</a>
