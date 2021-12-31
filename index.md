@@ -21,7 +21,3 @@ Before that I briefly worked at Stripe after graduating with a CS degree from UC
 <a href="https://twitter.com/pkayfire">Twitter</a>
 <a href="https://www.linkedin.com/in/peter-sbly/">LinkedIn</a>
 <a href="https://github.com/pkayfire">Github</a>
-
-<hr class="mb-4">
-
-peterk.eth | peterkim.ust
