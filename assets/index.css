@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  @apply font-quicksand;
+  @apply font-outfit;
 }
 
 h1 {
@@ -11,7 +11,7 @@ h1 {
 }
 
 p {
-  @apply mb-4;
+  @apply mb-4 font-light;
 }
 
 a {

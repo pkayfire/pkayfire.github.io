@@ -5,7 +5,7 @@ title: Peter Kim
 
 <h1 class="text-3xl font-semibold">Peter Kim</h1>
 
-I'm currently exploring web3.
+I'm currently exploring consumer social.
 
 Previously I was a cofounder of <a href="https://sbly.com">SBLY</a>, a holding company of digital brands and audiences that I helped bootstrap profitably to $90M in total revenue.
 
