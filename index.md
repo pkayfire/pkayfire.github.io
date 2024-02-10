@@ -18,6 +18,7 @@ Before that I briefly worked at Stripe after graduating with a CS degree from UC
 <hr class="mb-4">
 
 <a href="mailto:p@peter-kim.com">Email</a>
+<a href="https://warpcast.com/peter">Farcaster</a>
 <a href="https://twitter.com/pkayfire">Twitter</a>
 <a href="https://www.linkedin.com/in/peter-sbly/">LinkedIn</a>
 <a href="https://github.com/pkayfire">Github</a>
